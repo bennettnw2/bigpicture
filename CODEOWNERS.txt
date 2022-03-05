@@ -1,0 +1,6 @@
+# Any change in the repo will require approval from @bennettnw2
+* @bennettnw2
+
+# Any change inside the `/Documents` directory
+# will reqire approval from anyone in the org team `docsteam`
+/Documents @bennettnw2/docsteam
